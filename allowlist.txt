@@ -4,12 +4,12 @@
 @@||talesdemonsandgods.com^
 ||cam4.com^
 ||gearculture.com^
-||numberpies.icu^
+||https://numberpies.icu/^
 ||xxsmal.com^ !adultsite
 ||sexsip.com^ !insecure adultsite
 ||mysafe-search.net^
-||thebrightbeacon.com^
-!@@||
+||thebrightbeacon.com^ !sit with errors on server side blocking for security and safety reasons.
+||
 !@@||
 !@@||
 !@@||
