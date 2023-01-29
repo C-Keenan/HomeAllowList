@@ -6,8 +6,8 @@
 ||gearculture.com^
 ||numberpies.icu^
 ||xxsmal.com^ !adultsite
-||sexsip.com^ !adultsite
-!@@||
+||sexsip.com^ !insecure adultsite
+||
 !@@||
 !@@||
 !@@||
