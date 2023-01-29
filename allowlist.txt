@@ -16,6 +16,16 @@
 ||*.pncdn.com^
 ||rr1.sn-5uaeznlz.googlevideo.com^
 ||csm.va.us.criteo.net^
+||*.realsrv.com^
+||*.xxxvjmp.com^
+||*.ktkjmp.com^
+||*.burningpushing.com^
+||*.pogothere.xyz^
+||*.cdn4image.com^
+||*.strpst.com^
+||*.cloudfront.net^
+||*.dmzjmp.com^
+||*.reerfdfgourgo.xyz^
 @@||http://tracking.centene.com/^|
 @@||talesdemonsandgods.com^|
 !@@||
