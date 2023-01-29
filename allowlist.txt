@@ -15,8 +15,6 @@
 ||nostopmedia.com/^
 ||https://fi1.ypncdn.com^
 ||rr1.sn-5uaeznlz.googlevideo.com^
-||https://ambetterhealth.entrykeyid.com^
-||pingfederate.prod-centene.us1.ping.cloud^
 ||csm.va.us.criteo.net^
 @@||http://tracking.centene.com/^|
 @@||talesdemonsandgods.com^|
