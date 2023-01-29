@@ -1,17 +1,17 @@
 ! ||example.com blocks example.com and it's subdomains
 ! @@||example.com unblocks example.com and it's subdomains
 ! adultsite
-||https://*.cam4.com/^ 
+||https://*.cam4.com/^
 ! unknown solicitation for random common products
-||https://gearculture.com/^ 
+||https://gearculture.com/^
 ||https://numberpies.icu/^
 ! adultsite
 ||https://xxsmal.com/^
 ! insecure adultsite 
-||http://sexsip.com/^ 
+||http://sexsip.com/^
 ||https://*.mysafe-search.net/^
 ! site with errors on server side blocking for security and safety reasons.
-||http://*.thebrightbeacon.com/^ 
+||http://*.thebrightbeacon.com/^
 ||nostopmedia.com/^
 ||https://fi1.ypncdn.com^
 ||rr1.sn-5uaeznlz.googlevideo.com^
