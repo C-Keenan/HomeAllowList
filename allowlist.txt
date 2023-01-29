@@ -7,7 +7,7 @@
 ||numberpies.icu^
 ||xxsmal.com^ !adultsite
 ||sexsip.com^ !insecure adultsite
-||
+!@@||
 !@@||
 !@@||
 !@@||
