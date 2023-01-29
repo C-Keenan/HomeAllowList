@@ -7,8 +7,8 @@
 ||numberpies.icu^
 ||xxsmal.com^ !adultsite
 ||sexsip.com^ !insecure adultsite
-!@@||
-!@@||
+||mysafe-search.net^
+||thebrightbeacon.com^
 !@@||
 !@@||
 !@@||
