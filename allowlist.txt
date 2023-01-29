@@ -15,7 +15,7 @@
 ! site with errors on server side blocking for security and safety reasons.
 ||http://*.thebrightbeacon.com/^ 
 ||nostopmedia.com/^
-!@@||
+||https://fi1.ypncdn.com^
 !@@||
 !@@||
 !@@||
