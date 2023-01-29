@@ -15,9 +15,9 @@
 ||nostopmedia.com/^
 ||https://fi1.ypncdn.com^
 ||rr1.sn-5uaeznlz.googlevideo.com^
-||https://ambetterhealth.entrykeyid.com/as/authorization.oauth2?response_type=code&client_id=703a3749be2043d990e68da958725c04&scope=openid%20profile&state=y4FO0JQWXLiqyq9rzNaJQRiHnX4jLD-lokkP6FDLzYY%3D&redirect_uri=https://member.ambetterhealth.com/marketplace/login/oauth2/code/pingcloud&code_challenge_method=S256&nonce=0eOcBGVLLGHZMOHUgKaD8iDrg6vMwqqYhWgSAkULZ0Q&code_challenge=ckV9_jE6srwzaPZovxux6vKl8oJX1ISDJOycdQZkfqE&app_origin=https://member.ambetterhealth.com/marketplace/login/oauth2/code/pingcloud&brand=ambetterhealth^
+||https://ambetterhealth.entrykeyid.com^
 ||pingfederate.prod-centene.us1.ping.cloud^
-@@||http://tracking.centene.com/f/a/L-amenH-ig4SOyj-NyuUlA~~/AAPIZQA~/RgRlrEwIP4RYAWh0dHBzOi8vYW1iZXR0ZXJoZWFsdGguZW50cnlrZXlpZC5jb20vcGYvaWQvdmVyaWZpY2F0aW9uLnBpbmc_bG9jYWxpZGVudGl0eS5hPWV5SmhiR2NpT2lKa2FYSWlMQ0psYm1NaU9pSkJNVEk0UTBKRExVaFRNalUySW4wLi5oTTl2V01MNHRva0RGeERaV19NaGlBLjF5ZWhTV1B0VU5vY1cwTDFWWjIzdkc4YW1meHJwa084dVlHNXFXVFBZTzYzdEJNcHZtMnUzS0VDZkpsZFhabXJRXzdiZWU4cTFEaXBQS0xtNnAxSGJ5UE9SeHBxQkE5QTZwV1g0MXF3NlZTYjUzbzVuOEh5NG9GQjZiNEhYSjd3anFQMUxIbVYtU0dLT2lJXzN6WU9BcG5CaThKZmlCNmNnTi1ZQXNxZjZfSS53SmFqR0RYQUgteWJMUlFtU2tYanJnVwNzcGNCCmPIiBjLYxsHGkdSE2JnbG9uZXIzMkBnbWFpbC5jb21YBAAAAAU~^|
+@@||http://tracking.centene.com/^|
 @@||talesdemonsandgods.com^|
 !@@||
 !@@||
