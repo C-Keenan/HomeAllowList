@@ -1,15 +1,20 @@
-!@@||example.com unblocks example.com and it's subdomains
-!||example.com blocks example.com and it's subdomains
-@@||http://tracking.centene.com/f/a/L-amenH-ig4SOyj-NyuUlA~~/AAPIZQA~/RgRlrEwIP4RYAWh0dHBzOi8vYW1iZXR0ZXJoZWFsdGguZW50cnlrZXlpZC5jb20vcGYvaWQvdmVyaWZpY2F0aW9uLnBpbmc_bG9jYWxpZGVudGl0eS5hPWV5SmhiR2NpT2lKa2FYSWlMQ0psYm1NaU9pSkJNVEk0UTBKRExVaFRNalUySW4wLi5oTTl2V01MNHRva0RGeERaV19NaGlBLjF5ZWhTV1B0VU5vY1cwTDFWWjIzdkc4YW1meHJwa084dVlHNXFXVFBZTzYzdEJNcHZtMnUzS0VDZkpsZFhabXJRXzdiZWU4cTFEaXBQS0xtNnAxSGJ5UE9SeHBxQkE5QTZwV1g0MXF3NlZTYjUzbzVuOEh5NG9GQjZiNEhYSjd3anFQMUxIbVYtU0dLT2lJXzN6WU9BcG5CaThKZmlCNmNnTi1ZQXNxZjZfSS53SmFqR0RYQUgteWJMUlFtU2tYanJnVwNzcGNCCmPIiBjLYxsHGkdSE2JnbG9uZXIzMkBnbWFpbC5jb21YBAAAAAU~^
-@@||talesdemonsandgods.com^
-||https://*.cam4.com^ !adultsite
-||https://gearculture.com^ !unknown solicitation for random common products
+! @@||example.com unblocks example.com and it's subdomains
+! ||example.com blocks example.com and it's subdomains
+@@||http://tracking.centene.com/f/a/L-amenH-ig4SOyj-NyuUlA~~/AAPIZQA~/RgRlrEwIP4RYAWh0dHBzOi8vYW1iZXR0ZXJoZWFsdGguZW50cnlrZXlpZC5jb20vcGYvaWQvdmVyaWZpY2F0aW9uLnBpbmc_bG9jYWxpZGVudGl0eS5hPWV5SmhiR2NpT2lKa2FYSWlMQ0psYm1NaU9pSkJNVEk0UTBKRExVaFRNalUySW4wLi5oTTl2V01MNHRva0RGeERaV19NaGlBLjF5ZWhTV1B0VU5vY1cwTDFWWjIzdkc4YW1meHJwa084dVlHNXFXVFBZTzYzdEJNcHZtMnUzS0VDZkpsZFhabXJRXzdiZWU4cTFEaXBQS0xtNnAxSGJ5UE9SeHBxQkE5QTZwV1g0MXF3NlZTYjUzbzVuOEh5NG9GQjZiNEhYSjd3anFQMUxIbVYtU0dLT2lJXzN6WU9BcG5CaThKZmlCNmNnTi1ZQXNxZjZfSS53SmFqR0RYQUgteWJMUlFtU2tYanJnVwNzcGNCCmPIiBjLYxsHGkdSE2JnbG9uZXIzMkBnbWFpbC5jb21YBAAAAAU~^|
+@@||talesdemonsandgods.com^|
+! adultsite
+||https://*.cam4.com^ 
+! unknown solicitation for random common products
+||https://gearculture.com^ 
 ||https://numberpies.icu/^
-||https://xxsmal.com^ !adultsite
-||http://sexsip.com^ !insecure adultsite
+! adultsite
+||https://xxsmal.com^
+! insecure adultsite 
+||http://sexsip.com^ 
 ||https://*.mysafe-search.net^
-||http://*.thebrightbeacon.com^ !sit with errors on server side blocking for security and safety reasons.
-!@@||
+! site with errors on server side blocking for security and safety reasons.
+||http://*.thebrightbeacon.com^ 
+||nostopmedia.com^
 !@@||
 !@@||
 !@@||
