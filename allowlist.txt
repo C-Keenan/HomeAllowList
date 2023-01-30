@@ -26,6 +26,7 @@
 ||cloudfront.net^
 ||dmzjmp.com^
 ||reerfdfgourgo.xyz^
+||reddit.com^
 @@||http://tracking.centene.com/^|
 @@||talesdemonsandgods.com^|
 !@@||
