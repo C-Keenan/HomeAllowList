@@ -1,18 +1,9 @@
-! currently not working properly will be looking into it
-
-! ||example.com blocks example.com and it's subdomains
-! @@||example.com unblocks example.com and it's subdomains
-! adultsite
 cam4.com
-! unknown solicitation for random common products
 gearculture.com
 numberpies.icu
-! adultsite
-xxsmal.com
-! insecure adultsite 
+xxsmal.com 
 sexsip.com
 mysafe-search.net
-! site with errors on server side blocking for security and safety reasons.
 thebrightbeacon.com
 nostopmedia.com
 pncdn.com
