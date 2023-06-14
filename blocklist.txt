@@ -3,28 +3,31 @@
 ! ||example.com blocks example.com and it's subdomains
 ! @@||example.com unblocks example.com and it's subdomains
 ! adultsite
-||cam4.com^
+cam4.com
 ! unknown solicitation for random common products
-||gearculture.com^
-||numberpies.icu^
+gearculture.com
+numberpies.icu
 ! adultsite
-||xxsmal.com^
+xxsmal.com
 ! insecure adultsite 
-||sexsip.com^
-||mysafe-search.net^
+sexsip.com
+mysafe-search.net
 ! site with errors on server side blocking for security and safety reasons.
-||thebrightbeacon.com^
-||nostopmedia.com^
-||pncdn.com^
-||rr1.sn-5uaeznlz.googlevideo.com^
-||csm.va.us.criteo.net^
-||realsrv.com^
-||xxxvjmp.com^
-||ktkjmp.com^
-||burningpushing.com^
-||pogothere.xyz^
-||cdn4image.com^
-||strpst.com^
-||cloudfront.net^
-||dmzjmp.com^
-||reerfdfgourgo.xyz^
+thebrightbeacon.com
+nostopmedia.com
+pncdn.com
+rr1.sn-5uaeznlz.googlevideo.com
+csm.va.us.criteo.net
+realsrv.com
+xxxvjmp.com
+ktkjmp.com
+burningpushing.com
+pogothere.xyz
+cdn4image.com
+strpst.com
+cloudfront.net
+dmzjmp.com
+reerfdfgourgo.xyz
+silentinevitable.com
+exdynsrv.com
+mywebsearchnu.com
