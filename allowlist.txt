@@ -4,3 +4,4 @@
 ! @@||example.com unblocks example.com and it's subdomains
 wooga.com
 tasteofhome.com
+facebook.com
