@@ -2,5 +2,4 @@
 
 ! ||example.com blocks example.com and it's subdomains
 ! @@||example.com unblocks example.com and it's subdomains
-@@||http://tracking.centene.com/^|
-@@||talesdemonsandgods.com^|
+clicks.marketing.wooga.com
