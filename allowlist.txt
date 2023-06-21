@@ -3,3 +3,4 @@
 ! ||example.com blocks example.com and it's subdomains
 ! @@||example.com unblocks example.com and it's subdomains
 clicks.marketing.wooga.com
+click.email.tasteofhome.com
