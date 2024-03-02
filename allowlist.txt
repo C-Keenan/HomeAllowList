@@ -1,7 +1,3 @@
-! currently not working properly will be looking into it
-
-! ||example.com blocks example.com and it's subdomains
-! @@||example.com unblocks example.com and it's subdomains
 wooga.com
 tasteofhome.com
 facebook.com
