@@ -6,4 +6,4 @@ wooga.com
 tasteofhome.com
 facebook.com
 messenger.com
-pkgs.tailscale.com
+tailscale.com
