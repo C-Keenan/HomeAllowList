@@ -4,3 +4,4 @@ facebook.com
 messenger.com
 tailscale.com
 nzbfinder.ws
+facebook.com
