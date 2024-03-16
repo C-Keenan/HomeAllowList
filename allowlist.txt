@@ -2,7 +2,8 @@ wooga.com
 tasteofhome.com
 facebook.com
 messenger.com
-||@@tailscale.com^
+tailscale.com^
 nzbfinder.ws
 facebook.com
 npmjs.org
+login.tailscale.com
