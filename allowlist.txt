@@ -7,3 +7,4 @@ nzbfinder.ws
 facebook.com
 npmjs.org
 login.tailscale.com
+addons.opera.com
