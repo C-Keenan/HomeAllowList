@@ -8,3 +8,4 @@ facebook.com
 npmjs.org
 login.tailscale.com
 addons.opera.com
+arise.com
