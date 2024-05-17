@@ -9,4 +9,4 @@ npmjs.org
 login.tailscale.com
 addons.opera.com
 arise.com
-mangadex.org
+*.mangadex.org
