@@ -2,11 +2,10 @@ wooga.com
 tasteofhome.com
 facebook.com
 messenger.com
-tailscale.com^
 nzbfinder.ws
 facebook.com
 npmjs.org
-login.tailscale.com
+*.tailscale.com
 addons.opera.com
-arise.com
+*.arise.com
 *.mangadex.org
