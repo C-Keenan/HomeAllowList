@@ -9,3 +9,4 @@ npmjs.org
 addons.opera.com
 *.arise.com
 *.mangadex.org
+*.ea.com
