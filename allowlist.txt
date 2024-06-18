@@ -11,3 +11,4 @@ addons.opera.com
 *.mangadex.org
 *.ea.com
 *.paypal.com
+api.honeygain.com
