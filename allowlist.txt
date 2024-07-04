@@ -13,3 +13,4 @@ addons.opera.com
 *.paypal.com
 api.honeygain.com
 analytics.google.com
+marketingplatform.google.com
