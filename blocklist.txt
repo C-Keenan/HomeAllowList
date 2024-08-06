@@ -41,3 +41,7 @@ sarahwestall.com
 drctcldff.com
 slam-online.com
 a-ads.com
+*.repack-games.com
+repack-games.com
+*.fling-trainer.com
+fling-trainer.com
