@@ -12,3 +12,4 @@ addons.opera.com
 *.ea.com
 *.paypal.com
 api.honeygain.com
+*.mozilla.org
