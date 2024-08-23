@@ -13,3 +13,4 @@ addons.opera.com
 *.paypal.com
 api.honeygain.com
 # *.mozilla.org
+www.youtube.com
