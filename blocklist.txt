@@ -45,3 +45,4 @@ a-ads.com
 repack-games.com
 *.fling-trainer.com
 fling-trainer.com
+jw.org
