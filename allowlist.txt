@@ -1,9 +1,8 @@
 wooga.com
 tasteofhome.com
-facebook.com
-messenger.com
+*.facebook.com
+*.messenger.com
 nzbfinder.ws
-facebook.com
 npmjs.org
 *.tailscale.com
 addons.opera.com
@@ -12,6 +11,6 @@ addons.opera.com
 *.ea.com
 *.paypal.com
 api.honeygain.com
-# *.mozilla.org
+*.mozilla.org
 www.youtube.com
 www.chronicleonline.com
