@@ -46,3 +46,5 @@ repack-games.com
 *.fling-trainer.com
 fling-trainer.com
 jw.org
+adservice.google.com
+ad.doubleclick.net
